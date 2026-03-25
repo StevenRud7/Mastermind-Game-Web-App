@@ -1,7 +1,8 @@
 # Mastermind
 
-A fully-featured, browser-based implementation of the classic **Mastermind** code-breaking puzzle, built with React 18 and Vite. The app supports three game modes: Solo, Vs Friend (local pass-and-play), and Vs AI (with three AI difficulty levels) a shared horizontal game board, configurable game settings, colorblind accessibility, Web Audio sound effects, and a polished dark UI with smooth animated transitions. All game logic, state management, and AI strategy run entirely in the browser with no backend required.
+A fully-featured, browser-based implementation of the classic **Mastermind** code-breaking puzzle, built with React 18 and Vite. The app supports three game modes: Solo, Vs Friend (local pass-and-play), and Vs AI (with three AI difficulty levels) a shared horizontal game board, configurable game settings, colorblind accessibility, Web Audio sound effects, and a polished dark UI with smooth animated transitions.
 
+### Website Link: https://mastermind-zmci.onrender.com/
 ---
 
 ## 📋 Table of Contents
