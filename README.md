@@ -21,13 +21,45 @@ A fully-featured, browser-based implementation of the classic **Mastermind** cod
 
 ## 📸 Screenshots
 
-| Home Screen | Solo Game | Vs Friend |
-|:-----------:|:---------:|:---------:|
-| ![Home Screen](images/home.png) | ![Solo Game](images/solo.png) | ![Vs Friend](images/friend.png) |
+<table>
+  <tr>
+    <th>Home Screen</th>
+    <th>Solo Game</th>
+    <th>Vs Friend</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/home.png" width="220" height="400" style="object-fit: cover; border-radius: 8px;" />
+    </td>
+    <td align="center">
+      <img src="images/solo.png" width="220" height="400" style="object-fit: cover; border-radius: 8px;" />
+    </td>
+    <td align="center">
+      <img src="images/friend.png" width="220" height="400" style="object-fit: cover; border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
 
-| Vs AI | Game Over — Win | Game Over — Loss |
-|:-----:|:---------------:|:----------------:|
-| ![Vs AI](images/vsai.png) | ![Win Screen](images/win.png) | ![Loss Screen](images/loss.png) |
+<br/>
+
+<table>
+  <tr>
+    <th>Vs AI</th>
+    <th>Game Over — Win</th>
+    <th>Game Over — Loss</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/vsai.png" width="220" height="400" style="object-fit: cover; border-radius: 8px;" />
+    </td>
+    <td align="center">
+      <img src="images/win.png" width="220" height="400" style="object-fit: cover; border-radius: 8px;" />
+    </td>
+    <td align="center">
+      <img src="images/loss.png" width="220" height="400" style="object-fit: cover; border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
