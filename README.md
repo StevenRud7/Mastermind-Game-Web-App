@@ -29,13 +29,13 @@ A fully-featured, browser-based implementation of the classic **Mastermind** cod
   </tr>
   <tr>
     <td align="center">
-      <img src="images/home.png" width="220" height="400" style="object-fit: cover; border-radius: 8px;" />
+      <img src="images/home.png" width="260" style="border-radius: 8px;" />
     </td>
     <td align="center">
-      <img src="images/solo.png" width="220" height="400" style="object-fit: cover; border-radius: 8px;" />
+      <img src="images/solo.png" width="260" style="border-radius: 8px;" />
     </td>
     <td align="center">
-      <img src="images/friend.png" width="220" height="400" style="object-fit: cover; border-radius: 8px;" />
+      <img src="images/friend.png" width="260" style="border-radius: 8px;" />
     </td>
   </tr>
 </table>
@@ -50,13 +50,13 @@ A fully-featured, browser-based implementation of the classic **Mastermind** cod
   </tr>
   <tr>
     <td align="center">
-      <img src="images/vsai.png" width="220" height="400" style="object-fit: cover; border-radius: 8px;" />
+      <img src="images/vsai.png" width="260" style="border-radius: 8px;" />
     </td>
     <td align="center">
-      <img src="images/win.png" width="220" height="400" style="object-fit: cover; border-radius: 8px;" />
+      <img src="images/win.png" width="260" style="border-radius: 8px;" />
     </td>
     <td align="center">
-      <img src="images/loss.png" width="220" height="400" style="object-fit: cover; border-radius: 8px;" />
+      <img src="images/loss.png" width="260" style="border-radius: 8px;" />
     </td>
   </tr>
 </table>
