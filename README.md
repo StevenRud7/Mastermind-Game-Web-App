@@ -21,42 +21,46 @@ A fully-featured, browser-based implementation of the classic **Mastermind** cod
 
 ## 📸 Screenshots
 
+### 🖥️ Home and Win/Loss Screenshots
+
 <table>
   <tr>
-    <th>Home Screen</th>
-    <th>Solo Game</th>
-    <th>Vs Friend</th>
+    <th>Home Page</th>
+    <th>Game Over — Win</th>
+    <th>Game Over — Loss</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="images/home.png" width="260" style="border-radius: 8px;" />
+      <img src="images/home.png" height="380" style="border-radius: 8px;" />
     </td>
     <td align="center">
-      <img src="images/solo.png" width="260" style="border-radius: 8px;" />
+      <img src="images/win.png" height="380" style="border-radius: 8px;" />
     </td>
     <td align="center">
-      <img src="images/friend.png" width="260" style="border-radius: 8px;" />
+      <img src="images/loss.png" height="380" style="border-radius: 8px;" />
     </td>
   </tr>
 </table>
 
 <br/>
 
+### 🖥️ Gameplay Screenshots
+
 <table>
   <tr>
-    <th>Vs AI</th>
-    <th>Game Over — Win</th>
-    <th>Game Over — Loss</th>
+    <th>Solo Game</th>
+    <th>VS Friend</th>
+    <th>VS AI</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="images/vsai.png" width="260" style="border-radius: 8px;" />
+      <img src="images/solo.png" width="320" style="border-radius: 8px;" />
     </td>
     <td align="center">
-      <img src="images/win.png" width="260" style="border-radius: 8px;" />
+      <img src="images/friend.png" width="320" style="border-radius: 8px;" />
     </td>
     <td align="center">
-      <img src="images/loss.png" width="260" style="border-radius: 8px;" />
+      <img src="images/vsai.png" width="320" style="border-radius: 8px;" />
     </td>
   </tr>
 </table>
@@ -65,7 +69,7 @@ A fully-featured, browser-based implementation of the classic **Mastermind** cod
 
 ## ✨ Features
 
-- **Three game modes** — Solo, local 2-player pass-and-play, and Vs AI
+- **Three game modes** — Solo, local 2-player pass-and-play, and VS AI
 - **Three AI difficulty levels** — Easy (random), Medium (heuristic filtering), Hard (Knuth's minimax algorithm, guaranteed ≤5 guesses)
 - **Shared horizontal board** — all players and the AI guess on the same board in chronological order; 10 total guesses per game
 - **Configurable palette** — choose 6, 7, or 8 colors from a set of 8 distinct options
