@@ -817,8 +817,7 @@ export default function GamePage() {
               fontSize: 9,
               color: 'rgba(255,255,255,0.2)',
               letterSpacing: '0.04em',
-              whiteSpace: 'nowrap',
-              transform: 'translateX(-150%)'
+              whiteSpace: 'nowrap'
             }}>
               click pegs ↓
             </span>
@@ -840,11 +839,11 @@ export default function GamePage() {
 
           {/* Right: red/white feedback legend */}
           <div style={{ display: 'flex', gap: 10, alignItems: 'center', justifyContent: 'flex-end', flexShrink: 0 }}>
-            <div style={{ display: 'flex', alignItems: 'center', gap: 4, transform: 'translateX(-125%)'}}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 4}}>
               <div style={{ width: 9, height: 9, borderRadius: '50%', background: '#ff5252', boxShadow: '0 0 4px rgba(255,82,82,0.5)', flexShrink: 0 }} />
               <span style={{ fontSize: 9, color: 'rgba(255,255,255,0.3)', fontWeight: 600, whiteSpace: 'nowrap'}}>right color & right place</span>
             </div>
-            <div style={{ display: 'flex', alignItems: 'center', gap: 4, transform: 'translateX(-100%)' }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 4}}>
               <div style={{ width: 9, height: 9, borderRadius: '50%', background: '#e8e4d8', flexShrink: 0 }} />
               <span style={{ fontSize: 9, color: 'rgba(255,255,255,0.3)', fontWeight: 600, whiteSpace: 'nowrap' }}>right color & wrong place</span>
             </div>
